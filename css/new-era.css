@@ -1,0 +1,36 @@
+.news {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px;
+  background: #000;
+  color: #fff;
+}
+.text-side {
+  width: 60%;
+}
+.text-side > h1 {
+  font-size: 50px;
+  font-weight: 400;
+  margin: 20px 0;
+  text-transform: capitalize;
+}
+.text-side > p:nth-child(3) {
+  margin: 20px 0 40px 0;
+}
+.text-side > a {
+  text-decoration: none;
+  color: #fff;
+  margin: 20px 0;
+}
+.img-side {
+  width: 40%;
+  display: flex;
+  justify-content: end;
+}
+.bg {
+  width: 80%;
+}
+.bg > img {
+  width: 100%;
+}

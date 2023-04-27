@@ -1,0 +1,13 @@
+.dark  {
+    background-color: black;
+   }
+   
+   .dark * {
+     color: white !important;
+   }
+   .dark .sponsors{
+    background: black;
+   }
+   .dark footer{
+    background: black;
+   }

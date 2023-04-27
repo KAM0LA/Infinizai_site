@@ -1,0 +1,25 @@
+.sponsors {
+    text-align: center;
+    background: #fdd04a;
+    padding: 50px;
+    color: #272727;
+  }
+  .sponsors h1 {
+    font-weight: 500;
+    font-size: 50px;
+  }
+  .line {
+    width: 20%;
+  }
+  .sponsors p {
+    margin: 20px 240px;
+    font-weight: 300;
+  }
+  .brands {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  .brands > img {
+    width: 160px;
+  }

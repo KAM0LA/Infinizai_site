@@ -1,0 +1,33 @@
+.games {
+  width: 100%;
+  display: flex;
+  color: #fff;
+  text-align: center;
+}
+.game_1 {
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../images/game_bg_1.png");
+  height: 632px;
+  background-size: cover;
+}
+.game_2 {
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../images/game_bg_2.png");
+  height: 632px;
+  background-size: cover;
+}
+.game_3 {
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../images/game_bg_3.png");
+  height: 632px;
+  background-size: cover;
+}

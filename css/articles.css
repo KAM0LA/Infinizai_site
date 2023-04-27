@@ -1,0 +1,62 @@
+.leters {
+  background: #000;
+  color: #fff;
+  padding: 40px;
+}
+.leters-header,
+.real-leter {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 0;
+  gap: 20px;
+}
+.left-side {
+  width: 50%;
+}
+.big-title {
+  font-size: 50px;
+  letter-spacing: normal;
+  font-weight: 400;
+}
+.right-side {
+  width: 50%;
+}
+.d-flex {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.right-side a {
+  text-decoration: none;
+  color: #fff;
+}
+.big-game {
+  width: 50%;
+}
+.four-games {
+  width: 50%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 20px;
+}
+.four-games .card {
+  width: 100%;
+}
+.four-games h1 {
+  font-size: 20px;
+}
+.four-games img {
+  height: 169px;
+}
+.card {
+  width: 100%;
+}
+.card img {
+  width: 100%;
+}
+.card h1,
+p {
+  font-weight: 400;
+  margin: 20px 0;
+}
